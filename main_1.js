@@ -1,8 +1,8 @@
 
 var humain = 'Homme'
-let âge = 17 
-const prénom = 'Pierre-alexandre'
-const nom = 'OLIVIER'
+let âge = 19
+const prénom = 'Kylian'
+const nom = 'TOUENTI'
 
 alert('prénom')
 alert('nom')
